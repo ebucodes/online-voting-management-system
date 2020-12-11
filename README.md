@@ -29,8 +29,11 @@ Welcome to EbuCodes Online Voting System v1.
 Create a new database with name: ebucodes_vote
 
 Login Credentials
+
 Admin
+
 Username: admin
+
 Password: admin
 
 Goodluck and have fun. 
