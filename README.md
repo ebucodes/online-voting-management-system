@@ -36,7 +36,9 @@ Password: admin
 Goodluck and have fun. 
 
 If you need any assistance or any similar project in a different framework such as CodeIgniter or Laravel or you prefer native PHP like this feel free to contact 
-Email address: ebucodes@gmail.com.
+
+Email address: ebucodes@gmail.com
+
 WhatsApp: +234(0)814 340 9305.
  
 Best regards, 
